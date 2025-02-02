@@ -1,5 +1,7 @@
 # Installation and Setup Instructions
 
+![Preview](public/og-image.png)
+
 ## 1. Install Node.js and npm
 - Download and install Node.js from [https://nodejs.org](https://nodejs.org)
 - This will automatically install npm (Node Package Manager)
